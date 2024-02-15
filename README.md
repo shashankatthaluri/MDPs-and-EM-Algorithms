@@ -34,7 +34,7 @@ To use this project, follow the steps below:
 
 - Run main.py to learn about MDPs and solve using Value Iteration algorithm
 - Check recycling_robot.py for an example MDP - Recycling Robot
-- Refer em_algorithm.py to understand EM algorithm
+- Refer project report to understand EM algorithm
   
 ## 🤝 Contributing <a name="contributing"></a>
 
